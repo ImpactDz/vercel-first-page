@@ -74,7 +74,8 @@ export default function Quiz() {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-4">
       <div className="text-center mb-10">
         <h2 className="text-2xl font-semibold mb-3">Welcome to the quiz!</h2>
-        <p className="max-w-[30ch] text-sm opacity-50 m-0">Let's start learning.</p>
+        <p className="max-w-[30ch] text-sm opacity-50 m-0">Let&apos;s start learning.</p>
+
       </div>
 
       <Carousel className="w-full max-w-5xl">
